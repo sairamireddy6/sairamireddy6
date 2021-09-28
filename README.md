@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours on Python every day.
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif?raw=true"> 
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif?raw=true" width="500" height="450"> 
