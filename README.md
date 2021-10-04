@@ -8,6 +8,5 @@
 - 📫 How to reach me: [Instagram : myself_sairam_](https://www.instagram.com/myself_sairam_/) , [Youtube : sairam](https://www.youtube.com/channel/UCeAuXqf3pSX4E0ghO93gAOQ) , Gmail : sairamireddy2683@gmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours on Python every day.
-
-<img src="https://github.com/sairamireddy6/R/blob/0dccac737dad939f07a2086c3ed04cd3b1afdba8/1622983054685.jpeg" width="10000" height="300"> 
+ 
 <img src="https://github.com/sairamireddy6/My-resume/blob/f50eab784c98c554ee6d9b87743ef6473cf7b049/Gray%20and%20Black%20Professional%20Resume.jpg" width="500" height="700" alt="My Resume"> 
