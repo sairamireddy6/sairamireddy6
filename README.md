@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours on Python every day.
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif?raw=true" width="500" height="450"> 
+<img src="1622983054685.jpeg" width="500" height="450"> 
 <img src="https://github.com/sairamireddy6/My-resume/blob/f50eab784c98c554ee6d9b87743ef6473cf7b049/Gray%20and%20Black%20Professional%20Resume.jpg" width="500" height="700" alt="My Resume"> 
